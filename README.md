@@ -1,29 +1,30 @@
-Karalf-scheme
-=============
+evenhold-theme
+==============
 
-------------------------------------------------------------------------
-        
-A minimal dark theme for Sublime Text 3.
+theme for GNU emacs
 
-![Sublime html](https://lh3.googleusercontent.com/-vgVN0ZF-rcc/U3gnNMQBdXI/AAAAAAAAAUU/eCiV1CSzr7E/w1067-h662-no/sublime-html.JPG)
-![Sublime javascript](https://lh5.googleusercontent.com/-99jSimayMFA/U3gnPvCtZkI/AAAAAAAAAUM/GoSWlzlX7ZY/w1063-h662-no/sublime-javascript.JPG)
-![Sublime java](https://lh3.googleusercontent.com/-1Q5P7m9xepI/U3gnOYNbIyI/AAAAAAAAAUE/XTUcg3699Qs/w1062-h662-no/sublime-java.JPG)
+
+![html](https://lh6.googleusercontent.com/-jDW1jXY7ttg/U55mVI6h_zI/AAAAAAAAAZs/JNqkanl8824/w1117-h681-no/emacs+html5.JPG)
+
+![javascript](https://lh5.googleusercontent.com/-A8L1tn7qg70/U55mUS9YfZI/AAAAAAAAAZ0/aOO73bCx868/w1117-h677-no/emacs+Javascript.JPG)
+
+![java](https://lh3.googleusercontent.com/-2pPMblBB-WU/U55mUUcl0YI/AAAAAAAAAZk/8ocuS00Efwo/w1118-h677-no/emacs+Java+android.JPG)
 
 Installation
-------------------------------------------------------------------------
+==============
 
-### Manual
 
-  Copy files to the "Packages" folder
+   
+     -  Copy file  evenhold-theme.el in folder:
+          
+         .../emacs/etc/themes
 
-        - Preferences > Browswe Packages.
 
 
 
 Credit
 ------------------------------------------------------------------------
 
-This theme is based on [cyanide-theme](https://github.com/lefoy/cyanide-theme)
 
 You like this theme? I'd be glad to hear! Contact me on [Facebook](https://www.facebook.com/evenhold).
 
