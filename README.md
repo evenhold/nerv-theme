@@ -1,4 +1,4 @@
-nerv-theme
+Nerv-theme
 ==============
 
 theme for GNU emacs
