@@ -102,7 +102,7 @@
    `(outline-4 ((,class (:foreground "turquoise2"))))
    `(outline-5 ((,class (:foreground "aquamarine1"))))
    `(primary-selection ((,class (:background "blue3"))))
-   `(region ((,class (:background "#570404")))) Seleccion
+   `(region ((,class (:background "#570404"))))
    `(show-paren-match-face ((,class (:background "dodgerblue1" :foreground "white"))))
    `(show-paren-mismatch-face ((,class (:background "red" :foreground "white"))))
    `(success ((,class (:foreground "SeaGreen2"))))
