@@ -60,7 +60,7 @@
    `(ediff-fine-diff-A ((,class (:background "skyblue4" :foreground "white"))))
    `(ediff-fine-diff-B ((,class (:background "cyan4" :foreground "white"))))
    `(ediff-odd-diff-A ((,class (:background "Grey50" :foreground "White"))))
-   `(error ((,class (:foreground "#BB0000"))))  Alerta
+   `(error ((,class (:foreground "#BB0000"))))
    `(flymake-errline ((,class (:background nil :underline "red"))))
    `(flymake-warnline ((,class (:background nil :underline "green"))))
    `(font-lock-builtin-face ((,class (:foreground "#27E63A" :weight bold))))  
